@@ -37,7 +37,7 @@ A simple command-line Python app that allows users to register and log in using 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/eliesmeen/Username-and-Password-Project
 cd CollectUSR+PASS
 ```
 
